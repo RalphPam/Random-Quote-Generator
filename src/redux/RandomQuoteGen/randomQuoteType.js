@@ -1,0 +1,2 @@
+export const RANDOM_QUOTE = 'RANDOM_QUOTE'
+export const RESET_ANIMATION =  'RESET_ANIMATION'
